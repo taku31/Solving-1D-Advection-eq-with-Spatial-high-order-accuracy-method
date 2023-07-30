@@ -2,8 +2,7 @@
 ・Solve the 1D Advection equation and burgers equation  using the finite volume method.  
 ・The Riemann solver is the Roe Riemann solver.  
 ・The discretization accuracy in time and space is high-order accuracy.  
-・For a detailed explanation, please refer to the following URL
-　https://taku-naka.site/2023/07/29/computational-thermo-fluid-dynamics/fvm3/
+・For a detailed explanation, please refer to the following URL：https://taku-naka.site/2023/07/29/computational-thermo-fluid-dynamics/fvm3/
  
 ## demo
 
